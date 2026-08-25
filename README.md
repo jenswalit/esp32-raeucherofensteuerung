@@ -33,3 +33,5 @@ Grobkonzept steht (Komponenten geklärt), Umsetzung noch nicht begonnen.
 ## Notizen
 Projekt angelegt aus Gespräch vom 2026-08-25.
 Komponenten laut Gespräch vom 2026-08-25: Web-UI, Temperaturfühler, MQTT-Anbindung an Home Assistant, Relais zur Heizungssteuerung (an/aus).
+
+Code/Repo: https://github.com/jenswalit/esp32-raeucherofensteuerung (privat, angelegt 2026-08-25).
