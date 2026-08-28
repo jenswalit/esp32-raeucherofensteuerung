@@ -1,7 +1,7 @@
 ---
 title: ESP32 Räucherofensteuerung
 type: project
-status: active
+status: paused
 tags: [esp32, elektronik, räuchern]
 created: 2026-08-25
 updated: 2026-08-28
@@ -17,7 +17,8 @@ Steuerung für einen Räucherofen auf Basis eines ESP32 bauen:
 - Anbindung an Home Assistant per MQTT
 
 ## Status
-Grobkonzept steht (Komponenten geklärt), Umsetzung noch nicht begonnen.
+⛔ **Eingestellt am 2026-08-28** — kein Interesse mehr, laut Jens. Quelle: Gespräch vom 2026-08-28.
+Umsetzung war nicht begonnen; Grobkonzept und Recherche (siehe unten) stehen dokumentiert, falls das Projekt später wieder aufgenommen wird.
 
 ## Nächste Schritte
 - [x] Grundsatzentscheidung: Eigenbau mit ESP32 statt fertigem Auber-Controller (Gespräch vom 2026-08-28)
