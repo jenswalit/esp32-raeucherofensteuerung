@@ -49,4 +49,4 @@ Komponenten laut Gespräch vom 2026-08-25: Web-UI, Temperaturfühler, MQTT-Anbin
 
 Recherche-Dokumente aus der Inbox vom 2026-08-28 einsortiert nach `Recherche/` (siehe Erkenntnisse oben).
 
-Code/Repo: https://github.com/jenswalit/esp32-raeucherofensteuerung (privat, angelegt 2026-08-25).
+Code/Repo: https://github.com/jenswalit/esp32-raeucherofensteuerung (angelegt 2026-08-25, am 2026-08-28 auf public gestellt, um es einem Kollegen zugänglich zu machen).
